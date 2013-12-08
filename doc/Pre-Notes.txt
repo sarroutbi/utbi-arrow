@@ -1,0 +1,283 @@
+1 - Introduction:
+-----------------
+Utbi & Arrow is a mono or MMRPG game. 2 possibilities come from two modes:
+- Mono Mode: The offline mode.
+- Multi-Massive Mode: The online mode.
+The game is about a main character, and the army around this leader.
+Based in Mediaeval Age, not necessarily has nothing to do with this age, as it has different kind of Worlds and Universes, as well as different kind of very diverse characters, from different type of warriors, to gnome collectors and miners or magicians.
+
+2 - The game flow:
+------------------
+2.1 - Home Start:
+-----------------
+  Always a game starts, main character appears at Home World. Home world cannot be invaded from other armies.
+  Home World is the main place for main character, where can perform several actions such as:
+  * Observe army members (and selected ones, as not all of them can be taken).
+  * Mine, collect, hunt and fish.
+  * Send Spies to worlds and universes (online)
+  * Trade (Buy / Sell / Change minerals, objects, weapons, armies, etc.).
+  * Operate farms
+  * Send delegated missions
+  * Enrol on custom missions
+  * Explore world
+  Main character has a level. This level entitles main character to:
+  - Visit certain areas / worlds / universes (online)
+  - Spy certain  areas / worlds / universes (online)
+  - Acquire better army members
+  Offline games: There are journeys, that can be advanced per main character.
+  Each mission / delegated mission is composed of one or several journeys.
+
+3 - The game main functions:
+----------------------------
+  * Fighting
+  * Mining
+  * Farming (Just in Home World). Allow growing:
+    - Animals
+    - Recollectables
+  * Recollection
+  * Hunting
+  * Fishing
+  * Spying
+  * Exploring: visiting areas out of Home world.
+
+4 - Weapons, Armours and Tools:
+-------------------------------
+4.1 - Weapons:
+
+4.2 - Armours:
+
+4.3 - Tools:
+
+5 - The objects:
+----------------
+5.1 - Mineral.
+5.2 - Recollectable.
+5.3 - Hunt & Fish : Objects resulting from hunting or fishing.
+5.4 - Potions.
+ 
+6 - The animals:
+----------------
+- Animals can be used as army members for:
+  * Improving parameters (speed, agility, attack, defense, etc.)
+  * Association: An animal can take one or several non animal army members.
+  * Animals have their own parameters.
+  * Animals can be 
+
+7 - The universes, worlds, areas and sub-areas:
+----------------------------------------------
+- Online: Multiple universes (depending on the number of online players)
+- Offline: Unique universe, 1000 worlds with 10 areas each.
+
+8 - The characters:
+-------------------
+There are different type of charecters:
+* Warriors
+* Magicians
+* Recolectors
+* Farmers
+* Fishers
+* Spies
+
+The main character (MC):
+* MC can never be killed.
+* MC can only be a warrior or a magician..
+* MC can loose a fight, losing its army members, resulting on going back home.
+
+Examples of characters:
+- Lackmints: Small farmers gnomes, specialized on animal farming.
+- Dolkis:  Small recolection gnomes.
+- Glins:   Small mining gnomes, specialized on minerals.
+- Tordems: Small mining gnomes, specialized on rocks.
+- Amonds:  Small mining gnomes, specialized on gems.
+- Frayers: Spies
+- Mordats: Warriors specialized on light weapons
+- Berters: Warriors specialized on med.  weapons
+- Kurguls: Warriors specialized on heavy weapons
+NOTE: Set of characters can be added by any user.
+
+9 - The game parameters:
+------------------------
+Parameters are appliable to all army members, with some exceptions.
+
+9.1 - Global parameters: 
+JMC => Just Main Character.
+RAG => Reduce Army Global.
+- Health: Capacity for not dying. Recoverable with some objects.
+- Resistance: Capacity to move, fight, mine, etc. Recoverable with some objects.
+- Courage:  Capacity to fight against better armies.
+- Speed:    RAG. Capacity to move inside sub-areas quickly. 
+- Agility:  RAG. Capacity to access certain sub-areas and areas.
+- Money:    JMC.
+- Leadership: JMC. Capacity to increase the army number (Max.:100).
+- Negociation: JMC. Capacity to sell/buy/surround/negotiate peace.
+ 
+9.2 - Fighting parametrs:
+- Attack
+  * Head
+  * Up
+  * Down
+- Defense
+  * Head
+  * Up
+  * Down
+- Frequence
+- Accuracy
+- Weapon preservation
+- Armour preservation
+ 
+9.3 - Mining parameters:
+- Speed
+- Finesse
+- Rarity
+- Mineral
+- Methal
+- Stone
+ 
+9.4 - Recollection parameters:
+- Speed
+- Finesse
+- Rarity
+- Vegetables
+- Mushrooms 
+- Insects
+
+9.5 - Hunting parameters:
+- Hunt is performed by warriors of a team, that have hunt skills such as:
+- Hunt Accuracy
+- Hunt Strategy
+  
+9.6 - Spying parameters: 
+- General spying
+- Mine spying
+- Collection spying
+- Army spying
+- Live spying
+
+10 - The fights:
+----------------
+- Fights are resultant to the willing of two armies to combat each other.
+- An army can make a decission to surround without fighting, meaning:
+  - All tools, weapons and animals are lost.
+  - Army is maintained.
+- Turns based.
+
+11 - The mining:
+----------------
+- There are three types of mining materials. Inside each cathegory, different rarities are found:
+
+11.1 - Minerals:
+
+11.2 - Stones:
+
+11.3 - Gems:
+
+12 - The recolection:
+---------------------
+- Different organic objects can be collected:
+* Herbs
+* Vegetables
+* Mushrooms
+* Insects & Bees
+
+13 - Hunting and Fishing:
+-----------------------------
+13.1 - Hunting:
+---------------
+There are two types of hunting:
+* Captures: Animals can be captured in order to:
+  - Get animals to be farmed or delivered alive for custom missions.
+  - Example of animals that can be hunted for being farmed later:
+    * Ponys    (Army animal, for taking gnomes)
+    * Donkeys  (Army animal, for taking tools, food and potions)
+    * Horses   (Army animal, for carrying warriors)
+    * Felines  (Army animal, for carrying magicians)
+    * Rabbits  (Food and object recollection)
+    * Chickens (Food and object recollection)
+    * Goats    (Food and object recollection)
+    * Deers    (Food and object recollection)
+    * Cows     (Food and object recollection)
+* Hunting: 
+  - Killing animals in order to get objects from it. 
+    Animal objects can be used to:
+    * Forge weapons
+    * Forge armours
+    * Forge tools
+
+13.2 - Fishing:
+--------------- 
+There are two types of fishing:
+* Capture:
+  - Get fishes to be farmed
+* Fishing:
+  - To acquire fishes in order to get objects from it.
+    Animal objects can be used to:
+    * Forge weapons
+    * Forge armours
+    * Forge tools
+    Normally, by combining with other animal objects, materials, etc.
+
+- Fishing can only be performed in Lake or See areas
+ 
+14 - Delegated missions:
+------------------------
+Missions delegated can be declared to be done. Mission success probability will be specified initially.
+Different types of delegated missions can be declared:
+- Mining
+- Recollection
+- Spying
+- Hunting 
+- Fishing
+Delegated missions are ordered by main character, and he/she can not participate.
+
+15 - Custom missions:
+---------------------
+Missions arranged by MC in order to achieve:
+- Money
+- Level improvement (experience points)
+- Recollection
+- Mining
+- Hunting
+- Fishing 
+Different type of missions can be performed:
+- Army defeat
+- Recollection
+- Mining 
+- Hunting
+- Fishing
+Can involve:
+- Main character only
+- Main character and army
+If the MC considers appropriate, a delegated mission can be sent to achieve the goal.
+
+16 - Universes, Worlds and Areas:
+---------------------------------
+Universes: are only alternate set of worlds for online games.
+Worlds: A concentration of 10 Areas.
+  They have certain characteristics:
+  - Arid World: Rich on minerals and stones
+  - Cold World: Rich on gems
+  - Fertile   : Rich on recollectables  
+  - Tropical  : Rich on non farming animals for hunting
+  - Plateau   : Rich on farming animals for hunting
+  - Lake      : Rich on fishes
+  - Sea       : Very Rich on fishes
+Moving from 1 area to other: 1 journey.
+Moving to adjacent world   : 2 journeys.
+Moving directly from home to another world: 10 journeys.
+
+17 - Level improvement:
+-----------------------
+Level improvement of the MC (and its army) is performed by winning experience points.
+There are 100 levels. The level specifies also the number of members that can be enrolled on an army for a mission or world exploration.
+Improving level is of exponential difficulty (level^level*1000):
+Level 0: 0     points
+Level 1: 1000  points
+Level 2: 4000  points
+Level 3: 9000  points
+Level 4: 16000 points
+Level 5: 25000 points
+Level 6: 36000 points
+...
+Level 50: 2.500.000 points
+...
+Level 100: 10.000.000 points
